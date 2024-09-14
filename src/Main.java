@@ -10,7 +10,7 @@ public class Main {
 
         amount*=100;
         int numof2euros = (int) (amount/200);
-        System.out.println("There are: ");
+        System.out.println("There are:");
         System.out.println(numof2euros + " 2 euros");
         amount%=200;
         int numof1euro = (int) (amount/100);
