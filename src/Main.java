@@ -4,7 +4,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
 
-        double amount = 0;
+        double amount;
         System.out.println("Currency Breakdown: Minimum Coin Denominations Calculator.\n\n Please enter an amount in decimal format:");
         amount = sc.nextDouble();
 
